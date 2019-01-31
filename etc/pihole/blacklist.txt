@@ -1,0 +1,16 @@
+gitv.tv
+xiaomi.com
+atianqi.com
+baidu
+mifile.cn
+pandora.mi.com
+redirect.server1
+upgrade.ptmi.gitv.tv
+assistant.duokanbox.com
+resolver.gslb.mi-idc.com
+mishop.pandora.xiaomi.com
+hpeprint.com
+auth.api.gitv.tv
+appstore.server1
+stat.pandora.xiaomi.com
+weather.server1
